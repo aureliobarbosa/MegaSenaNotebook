@@ -1,19 +1,2 @@
-comprovantes/2020-05-09 Jogos Bolão.txt
-comprovantes/2020-05-09 Megasena Bolão concurso 2260.pdf
-comprovantes/6-1.pdf
-comprovantes/6-2.pdf
-comprovantes/6-3.pdf
-comprovantes/6-4.pdf
-comprovantes/6-5.pdf
-comprovantes/6-6.pdf
-comprovantes/6-7.pdf
-comprovantes/6-8.pdf
-comprovantes/6-9.pdf
-comprovantes/6-10.pdf
-comprovantes/6-11.pdf
-comprovantes/6-12.pdf
-comprovantes/6-13.pdf
-comprovantes/8-unico.pdf
-comprovantes/MegaSena2260-Bolão-Almas-Gordas.zip
-.ipynb_checkpoints/Mega-Sena-Birthday-Lottery-checkpoint.ipynb
-.ipynb_checkpoints/mega-sena-number-histogram-checkpoint.ipynb
+comprovantes/*
+.ipynb_checkpoints/*
